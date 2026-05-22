@@ -121,6 +121,16 @@
         <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
       </td>
     </tr>
+    <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>MobileDev</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white">
+      </td>
+    </tr>
   </table>
 </div>
 <br>
