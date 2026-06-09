@@ -1,5 +1,5 @@
-<h3><a align="center" href="https://програмист.xyz/">Мій сайт:) 
-https://програмист.xyz
+<h3><a align="center" 
+href="https://програмист.xyz/">Мій сайт:)
 </a></h3>
 
 <br>
