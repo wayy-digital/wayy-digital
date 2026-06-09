@@ -1,9 +1,9 @@
-<h3><a align="center" 
-href="https://програмист.xyz/">Мій сайт:)
-</a></h3>
+<hr>
+<h3 align="center">
+  <a href="https://програмист.xyz/">Мій сайт:)</a>
+</h3>
+<hr>
 
-<br>
-  
 <a href="https://github.com/wayy-digital">
   <img src="https://i.postimg.cc/LXGHhgDn/efcc0a5a-d564-46ba-81fc-92bc4e706103.jpg" width="100%" alt="Банер Adionov"/>
 </a>
