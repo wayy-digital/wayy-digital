@@ -1,4 +1,4 @@
-<h3>https://xn--80afqphfhcmk.xyz/</h3>
+<h3>https://програмист.xyz/</h3>
 <a href="https://github.com/wayy-digital">
   <img src="https://i.postimg.cc/LXGHhgDn/efcc0a5a-d564-46ba-81fc-92bc4e706103.jpg" width="100%" alt="Банер Adionov"/>
 </a>
