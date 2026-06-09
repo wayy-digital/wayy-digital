@@ -5,7 +5,7 @@
 <hr>
 
 <a href="https://github.com/wayy-digital">
-  <img src="https://i.postimg.cc/Xqt0vdbJ/IMG-3368.jpg" width="100%" alt="Банер Adionov" style="border-radius: 20px;"/>
+  <img src="https://i.postimg.cc/Xqt0vdbJ/IMG-3368.jpg" width="100%" alt="Банер Adionov" style="border-radius: 20px; border: 2px solid red;"/>
 </a>
 
 <div align="center">
