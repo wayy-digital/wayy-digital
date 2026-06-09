@@ -1,4 +1,4 @@
-<h3><a href="https://програмист.xyz/">Мій сайт:) 
+<h3><a align="center" href="https://програмист.xyz/">Мій сайт:) 
 https://програмист.xyz
 </a></h3>
 
