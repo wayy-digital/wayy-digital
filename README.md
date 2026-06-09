@@ -4,9 +4,10 @@
 </h3>
 <hr>
 
-<a href="https://github.com/wayy-digital">
+<a href="https://github.com/wayy-digital" style="display: block; border-radius: 20px; overflow: hidden;">
   <img src="https://i.postimg.cc/Xqt0vdbJ/IMG-3368.jpg" width="100%" alt="Банер Adionov"/>
 </a>
+
 
 <div align="center">
   <h2>Трохи про мене</h2>
